@@ -25,7 +25,7 @@ SECRET_KEY = '@5v4+wldu(92bzl2-mt2v75#ou-4_2m89sbgi2srudo=*6v^50'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','http://amirtip.pythonanywhere.com']
 
 
 # Application definition
